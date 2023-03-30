@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
  tic-tac-toe multiplayer game
 
+![](showcase/running.mov)
+
 # Run locally
 First, start the server with:
 ```bash
