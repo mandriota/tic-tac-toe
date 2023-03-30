@@ -1,7 +1,8 @@
 # Tic-Tac-Toe
  tic-tac-toe multiplayer game
 
-![](showcase/running.mov)
+https://user-images.githubusercontent.com/62650188/228930784-f7605f7b-3f61-4a06-8a1c-91b62b0399a3.mp4
+
 
 # Run locally
 First, start the server with:
